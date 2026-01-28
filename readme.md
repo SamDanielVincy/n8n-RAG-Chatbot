@@ -5,7 +5,11 @@ An end-to-end **Retrieval-Augmented Generation (RAG) chatbot** built using **n8n
 This project demonstrates how modern AI systems combine **automation, embeddings, vector databases, and LLM agents** to deliver accurate, context-aware responses.
 
 ---
+<img width="1873" height="721" alt="Screenshot 2026-01-28 233952" src="https://github.com/user-attachments/assets/0f67d7bf-e482-4c51-a718-44b92594da0f" />
 
+
+
+Uploading ▶️ RAG Project - n8n - Google Chrome 2026-01-28 23-58-23.mp4…
 ## 🧠 Project Overview
 
 The goal of this project is to build a **fully automated document ingestion and conversational AI system** that can:
