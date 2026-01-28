@@ -61,3 +61,9 @@ The goal of this project is to build a **fully automated document ingestion and 
 
 If you're interested in **AI automation, RAG systems, or n8n workflows**, feel free to connect and collaborate!
 
+<a href="https://www.linkedin.com/in/sam-daniel-vincy/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       alt="LinkedIn"
+       width="40"
+       height="40"/>
+</a>
