@@ -9,7 +9,6 @@ This project demonstrates how modern AI systems combine **automation, embeddings
 
 
 
-Uploading ▶️ RAG Project - n8n - Google Chrome 2026-01-28 23-58-23.mp4…
 ## 🧠 Project Overview
 
 The goal of this project is to build a **fully automated document ingestion and conversational AI system** that can:
