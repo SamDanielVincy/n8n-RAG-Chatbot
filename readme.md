@@ -44,6 +44,20 @@ The goal of this project is to build a **fully automated document ingestion and 
 - **Architecture:** Retrieval-Augmented Generation (RAG)
 
 ---
+## ⚙️ Setup Instructions
 
-## 📂 Repository Structure
+1. Clone the repository
+2. Import the workflows into in hte json format as RAG Flow Structure
+3. Connect:
+   - Google Drive
+   - Supabase
+   - Google Gemini API
+5. Run ingestion workflow before using the chat workflow
+
+
+
+
+## 🤝 Connect
+
+If you're interested in **AI automation, RAG systems, or n8n workflows**, feel free to connect and collaborate!
 
